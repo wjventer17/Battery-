@@ -1,0 +1,2 @@
+year,make,model,engine,fuel,ah,cca,voltage,sa_size,din_size,length_mm,width_mm,height_mm,terminal_layout,technology,start_stop,willard_code,fbc_code,exide_code,bosch_code,varta_code,verified,source,notes
+2024,Volkswagen,Polo,1.6,Petrol,60,540,12,652C,,,,,,,To verify,To verify,VERIFY,VERIFY,VERIFY,VERIFY,No,,Illustrative sample only; not a confirmed fitment. Verify all specifications before use.
